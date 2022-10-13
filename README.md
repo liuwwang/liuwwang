@@ -1,2 +1,3 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liuwwang&theme=dark&hide_border=true)](https://git.io/streak-stats)
