@@ -7,6 +7,6 @@
       <br>I think GitHub is <em>so cool</em> and still use it.
     <br>Today, I'm still learning to make things :sparkles:<br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: <a href="https://twitter.com/pifafu">Take a page from one user's github homepage</a>
+    <br><br>:coffee: <a href="https://github.com/pifafu">Take a page from one user's github homepage</a>
   </samp>
 </p>
