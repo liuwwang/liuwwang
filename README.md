@@ -1,7 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BAF5&background=0A0A0A00&center=true&vCenter=true&width=435&lines=I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=liuwwang&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-![Metrics](https://metrics.lecoq.io/liuwwang?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi! I design for life.
+    <br>Before that, I designed at GitHub for 3+ years!
+      <br>I think GitHub is <em>so cool</em> and still use it.
+    <br>Today, I'm still learning to make things :sparkles:<br><br>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>:coffee: <a href="https://twitter.com/pifafu">Take a page from one user's github homepage</a>
+  </samp>
+</p>
