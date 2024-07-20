@@ -26,5 +26,5 @@ I'm a technology enthusiast with a strong interest in artificial intelligence an
 
 I'm always open to discussing technical insights with fellow enthusiasts, whether it's about AI, Python programming, or other technical topics. You can reach me through the following channels:
 
-- [Email](liuuwwang@gmail.com)
+- [liuuwwang@gmail.com](liuuwwang@gmail.com)
 - [GitHub](https://github.com/liuwwang)
